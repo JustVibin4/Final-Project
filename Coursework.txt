@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Coursework</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <!-- (same navbar code here) -->
+<nav>
+  <ul class="navbar">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="coursework.html">Coursework</a></li>
+    <li><a href="hobbies.html">Hobbies</a></li>
+    <li><a href="resume.html">Resume</a></li>
+    <li><a href="projects.html">Projects</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+
+
+  <h1>Coursework at WCCS</h1>
+  <h2>Completed Courses</h2>
+  <ul>
+    <li>ENG 101 – English Composition I</li>
+    <li>CIS 146 – Microcomputer Applications</li>
+  </ul>
+  <h2>Current Courses</h2>
+  <ul>
+    <li>WEB 110 – Web Development Fundamentals</li>
+  </ul>
+  <h2>Future Courses</h2>
+  <ul>
+    <li>CIS 249 – C++ Programming</li>
+    <li>WEB 215 – Advanced Web Design</li>
+  </ul>
+
+</body>
+</html>
